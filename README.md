@@ -1,6 +1,8 @@
 # Atividade Prática
 
 Atividade prática do módulo "Projetos de Soluções Móveis Multiplataforma" do IGTI.
+- AULA 2
+- CONVERSÃO COTAÇÃO (MOEDAS)
 
 Márcio Figueiredo
 
